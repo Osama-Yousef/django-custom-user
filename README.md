@@ -24,3 +24,14 @@ django-admin startproject custom_user_project .
 python manage.py startapp users 
 python manage.py runserver
 ```
+
+-------------------------------------------------------------------------------------------
+## User Acceptance Tests
+- Verify the creation of a new user with email and password
+- Verify that duplicate emails are not allowed
+---------------------------------------------------------------------------------------------
+## Estimate of time needed to complete: 3:30 hours
+
+- Start time: 8:00 pm
+- Finish time: 11:00 pm
+- Actual time needed to complete: 3 hours
